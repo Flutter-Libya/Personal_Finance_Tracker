@@ -8,12 +8,14 @@ Personal Finance Tracker is a Flutter-based application designed to assist users
 
 Here are some screenshots showcasing the key functionalities of the application:
 
-<img src="Simulator Screenshot - iPhone 14 Pro Max - 2023-08-12 at 16.14.43.png" width="200"/>
-<img src="Simulator Screenshot - iPhone 14 Pro Max - 2023-08-12 at 16.17.30.png" width="200"/>
-<img src="Simulator Screenshot - iPhone 14 Pro Max - 2023-08-12 at 16.17.33.png" width="200"/>
-<img src="Simulator Screenshot - iPhone 14 Pro Max - 2023-08-12 at 16.17.40.png" width="200"/>
-<img src="Simulator Screenshot - iPhone 14 Pro Max - 2023-08-12 at 16.17.43.png" width="200"/>
-<img src="Simulator Screenshot - iPhone 14 Pro Max - 2023-08-12 at 16.17.47.png" width="200"/>
+<p align="center">
+  <img src="Simulator Screenshot - iPhone 14 Pro Max - 2023-08-12 at 16.14.43.png" width="200"/>
+  <img src="Simulator Screenshot - iPhone 14 Pro Max - 2023-08-12 at 16.17.30.png" width="200"/>
+  <img src="Simulator Screenshot - iPhone 14 Pro Max - 2023-08-12 at 16.17.33.png" width="200"/>
+  <img src="Simulator Screenshot - iPhone 14 Pro Max - 2023-08-12 at 16.17.40.png" width="200"/>
+  <img src="Simulator Screenshot - iPhone 14 Pro Max - 2023-08-12 at 16.17.43.png" width="200"/>
+  <img src="Simulator Screenshot - iPhone 14 Pro Max - 2023-08-12 at 16.17.47.png" width="200"/>
+</p>
 
 ## Key Features
 
