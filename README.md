@@ -25,9 +25,6 @@ Here are some screenshots showcasing the key functionalities of the application:
 - **Customizable Interface**: Employs a user-friendly design, with options to customize appearance using Google Fonts.
 - **Database Interaction**: Leverages SQLite for local data storage, managed through `database_provider.dart`.
 
-## Installation and Usage
-
-Please refer to the instructions in the provided documentation for installation and usage guidelines.
 
 ## Contributions and Support
 
@@ -35,4 +32,3 @@ Feel free to contribute to the development of this application or reach out for 
 
 ---
 
-**Note**: Replace the placeholder text with the specific details of your project, including installation instructions, usage guide, contact information, etc.
